@@ -1,2 +1,2 @@
-# Web Scraping Automobile News
+# Web Scraping Automotive News
  
